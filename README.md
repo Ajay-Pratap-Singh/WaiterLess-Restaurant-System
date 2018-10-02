@@ -11,3 +11,5 @@ communicate with each other through their server.
 4. A device which will be used to flash orders in the kitchen and to take input signal when the order is done.
 
 All four devices will have certain sofware running, so, that they co-ordinate with each other in proper manner. Sofware for manager’s device, for device in kitchen and for customer’s device is designed separately in independent sub projects/modules.
+
+The three folders contain jar file for each of the devices and server will have a mysql database.
